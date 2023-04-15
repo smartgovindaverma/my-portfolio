@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Know more about me
+         About me
         </a>
       </header>
     </div>
